@@ -51,7 +51,7 @@ This graph shows that most of the rides lasted under an hour. Five minutes was t
 <br>
 This graph shows that majority of the rides lasted under an hour for both genders. More than 100,00 male users  average bike usage of 5 minutes . Most of the female users (34,151 users) tend to use the bikes for at least 6 minutes at a time. Although more males use the bikeshare program, female users ride longer.
 <br>
-### User Trips by Gender per Weekday
+### User Trips by Gender by Weekday
 ![User Trips by Gender](Resources/user_trips_by_gender.png)
 <br>
 This heatmap shows that majority of the users are Subscribed to the Citi Bike bikeshare service. Males make up majority of the Subscribers. Bike usage is highest on Thursdays for both male and female Subscribers; however, amongst non-subscribing Customers , usage is highest on Saturdays.
