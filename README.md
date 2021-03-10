@@ -55,7 +55,16 @@ This graph shows that majority of the rides lasted under an hour for both gender
 ![User Trips by Gender](Resources/user_trips_by_gender.png)
 <br>
 This heatmap shows that majority of the users are Subscribed to the Citi Bike bikeshare service. Males make up majority of the Subscribers. Bike usage is highest on Thursdays for both male and female Subscribers; however, amongst non-subscribing Customers , usage is highest on Saturdays.
-<br>
 
 ## Summary
+
+### Summary of Results
+The analysis shows that:
+- Peak hours for rides occur between 7AM-9AM and 4PM-7PM, with 6PM being the most popular time for users. This corresponds with normal work hours- users rent a bike on their way to work between 7AM-9AM, and rent a bike in the afternoon when heading home, between 4PM-7PM.
+- The highest usage of Citi Bikes during peak hours occurs on Thursdays. This anomaly would need further investigation to understand why Thursday is a popular day for bike usage.
+- There appears to be low-usage on Wednesdays between peak afternoon hours of 4PM-7PM. It can be inferred that many people do not rent bikes on Wednesday evenings due to afterwork events, such as happy hours. These types of events are common on Wednesday, i.e., Wine Down Wednesdays, and would require safer travel option, including taxis, rideshare options, or the subway.
+- Males more likely than females to subscribe or use the bikeshare business. This is most likely due to concerns for safety. Women may not feel safe riding their bikes in the busy streets of New York. With a lack of bike parking spaces or designated bike lanes, woman are less likely to bike around the city.
+- Users are more likely to use bikes for less than one hour, with the most common time being 5 minutes. It can be understood that the bikes are used for short distances, rather than longer commutes, and possibly more for convenience than actual exercise.
+
+### Additional Visualizations
 
