@@ -42,7 +42,7 @@ This heatmap supports data that peak bike ride hours are between 7AM -9 AM and 4
 This heatmap supports data that males are the top users of the Citi Bike bikesharing program. Peak usage times for males and females supports data that peak bike ride hours are between 7AM -9 AM and 4PM -7PM.
 <br>
 ### Checkout Times for Users
-![Checkout Times for Users](Resources/checkout_times_by_users.png)
+![Checkout Times for Users](Resources/checkout_times_users.png)
 <br>
 This graph shows that most of the rides lasted under an hour. Five minutes was the longest duration of time for a bike rental, with 146,752 users.
 <br>
@@ -60,11 +60,13 @@ This heatmap shows that majority of the users are Subscribed to the Citi Bike bi
 
 ### Summary of Results
 The analysis shows that:
-- Peak hours for rides occur between 7AM-9AM and 4PM-7PM, with 6PM being the most popular time for users. This corresponds with normal work hours- users rent a bike on their way to work between 7AM-9AM, and rent a bike in the afternoon when heading home, between 4PM-7PM.
+- Peak hours for rides occur between 7AM-9AM and 4PM-7PM, with 6PM being the most popular time for users. This corresponds with normal work hours- users rent a bike on their way to work between 7AM-9AM, and rent a bike in the afternoon when heading home, between 4PM-7PM. The high bike usage could be due to lower costs when compared to other forms of transportation.
 - The highest usage of Citi Bikes during peak hours occurs on Thursdays. This anomaly would need further investigation to understand why Thursday is a popular day for bike usage.
 - There appears to be low-usage on Wednesdays between peak afternoon hours of 4PM-7PM. It can be inferred that many people do not rent bikes on Wednesday evenings due to afterwork events, such as happy hours. These types of events are common on Wednesday, i.e., Wine Down Wednesdays, and would require safer travel option, including taxis, rideshare options, or the subway.
 - Males more likely than females to subscribe or use the bikeshare business. This is most likely due to concerns for safety. Women may not feel safe riding their bikes in the busy streets of New York. With a lack of bike parking spaces or designated bike lanes, woman are less likely to bike around the city.
 - Users are more likely to use bikes for less than one hour, with the most common time being 5 minutes. It can be understood that the bikes are used for short distances, rather than longer commutes, and possibly more for convenience than actual exercise.
 
 ### Additional Visualizations
-
+For further analysis
+- A visualization that displays bike usage during colder months would be needed to fully grasp how successful Kate's bikesharing business would be throughout the whole year. 
+- It would also be helpful to create a visualization, such as a pie chart, that shows the age range of bike users. After this analysis, Kate could compare population data from Des Moines to that of New York to determine if the population in Des Moines would benefit from a bikesharing program, and if there would be enough customers who are likely to subscribe.
