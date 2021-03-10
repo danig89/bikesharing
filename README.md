@@ -67,6 +67,6 @@ The analysis shows that:
 - Users are more likely to use bikes for less than one hour, with the most common time being 5 minutes. It can be understood that the bikes are used for short distances, rather than longer commutes, and possibly more for convenience than actual exercise.
 
 ### Additional Visualizations
-For further analysis
+For further analysis:
 - A visualization that displays bike usage during colder months would be needed to fully grasp how successful Kate's bikesharing business would be throughout the whole year. 
 - It would also be helpful to create a visualization, such as a pie chart, that shows the age range of bike users. After this analysis, Kate could compare population data from Des Moines to that of New York to determine if the population in Des Moines would benefit from a bikesharing program, and if there would be enough customers who are likely to subscribe.
